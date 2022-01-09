@@ -1,0 +1,23 @@
+{
+  "name": "fireawaydemo",
+  "version": "1.0.0",
+  "description": "test fireaway",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chubibest/fireaway-test.git"
+  },
+  "author": "Chubi Best",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chubibest/fireaway-test/issues"
+  },
+  "homepage": "https://github.com/chubibest/fireaway-test#readme",
+  "dependencies": {
+    "fireaway": "^1.0.1",
+    "firebase-admin": "^10.0.1"
+  }
+}
